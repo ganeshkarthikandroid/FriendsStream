@@ -1,0 +1,32 @@
+{
+    "name": "My Friend",
+    "photo": "http://static.moralstories.org/wp-content/uploads/2009/05/friends.jpg",
+    "phone": "1231231231",
+    "email": "android@compassitesinc.com",
+    "contact_url": "http://compassitesinc.com",
+    "our_story": [
+        {
+            "type": "simple_card",
+            "title": "About My Friend",
+            "content": "About my friend... Big big story.... Loremipsumdolorsitametconsecteturadipiscingelisuntinculpaquiofficiadeseruntmollitanimidestlaborum"
+        },
+        {
+            "type": "checkin_card",
+            "title": "Ataparty",
+            "image_url": "http: //3.bp.blogspot.com/-wu_gj60FXJI/U9a9QhC-ttI/AAAAAAAAAQQ/L_3CPD61NNw/s1600/Manifest+Friends.jpg",
+            "location_url": "https: //www.google.co.in/maps/place/Compassites+Software+Solutions+Pvt.Ltd",
+            "more_images": "http://sampleapp.com/moreimages"
+        },
+        {
+            "type": "simple_card",
+            "title": "When we first met",
+            "content": "Big big story.... Loremipsumdolorsitametconsecteturadipiscingelisuntinculpaquiofficiadeseruntmollitanimidestlaborum"
+        },
+        {
+            "type": "checkin_card",
+            "title": "At goa",
+            "image_url": "http: //3.bp.blogspot.com/-wu_gj60FXJI/U9a9QhC-ttI/AAAAAAAAAQQ/L_3CPD61NNw/s1600/Manifest+Friends.jpg",
+            "location_url": "https: //www.google.co.in/maps/place/Compassites+Software+Solutions+Pvt.Ltd"
+        }
+    ]
+}
